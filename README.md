@@ -4,7 +4,7 @@ Insurance data analysis using Excel
 
 ## Overview
 
-This project analyzes insurance agency licensing data to identify compliance risks and business insights using Excel and Power BI.
+This project analyzes insurance agency licensing data to identify compliance risks and business insights using Excel.
 
 ---
 
